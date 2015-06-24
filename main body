@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Chuma, Josh, Jamie and Christian's UI Project</title>
+
+	<style type="text/css">
+
+
+		body { background-color: #F8F8F8;
+
+				}
+
+		ul#menu1 li{
+			display:inline-block;
+		}
+
+		ul#menu2 li{
+			display: inline-block;
+		}
+
+		ul#menu1 li a:hover{
+			background-color: #888888;
+			font-size: 150%;
+		}
+
+		ul#menu1 li a{
+
+		}
+
+		img.covers{
+			height:150px;
+			width:150px;
+			margin: 10px;
+			float:left;
+		}
+		img.selected{
+			 height:170px;
+			 width:170px;
+			 margin: 10px;
+			 float:left;
+		}
+
+		img#chosen{
+			height:300px;
+			width:300px;
+			margin: 60px 30px 30px 30px;
+			float:right;
+		}
+
+		img.tags{
+			height: 30px;
+			width: 30px;
+		}
+
+		div.details{
+			background-color: #A00000;
+			border: thin;
+			border-width: 1px;
+			height: 510px;
+			clear: both;
+		}
+
+		div.details h1{
+			text-align: left;
+
+		}
+		pre {
+			font-family: sans-serif;
+			font-size: 1em;
+			font-weight: bold;
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<ul id="menu1">
+		<li><a href=""><img  class = "tags" src="/Users/cybschuma/Desktop/music.png" /></a></li>
+		<li><a href=""><img  class = "tags" src="/Users/cybschuma/Desktop/music2.png" /></a></li>
+		<li><a href=""><img  class = "tags" src="/Users/cybschuma/Desktop/music3.png" /></a></li>
+		<li><a href=""><img  class = "tags" src="/Users/cybschuma/Desktop/music4.png" /></a></li>
+	</ul>
+	
+	
+	<hr/>
+	<p class="album">All Albums</p>
+	<hr/>
+
+	<img class="covers" src="http://www.shallownation.com/images/slumdog_millionaire_poster.jpg"/>
+	<img class="covers" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Aaliyah-ICare4U.jpg"/>
+	<img class="covers" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Aaliyah-ICare4U.jpg"/>
+	<img class="covers" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Aaliyah-ICare4U.jpg"/>
+	<img class="selected" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Aaliyah-ICare4U.jpg"/>
+	<img class="covers" src="http://media.tumblr.com/tumblr_mf3r1eERKE1qgcb9y.jpg"/>
+	<img class="covers" src="http://media.tumblr.com/tumblr_mf3r1eERKE1qgcb9y.jpg"/>
+	<div class="details">
+
+<img id = "chosen" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Aaliyah-ICare4U.jpg"/>
+<h1> I Care for You [france Bonus Tracks and DVD](Disc 1)<ul id="menu1">
+														<li></li>
+														<li></li>
+														<li></li>
+														</ul>
+</h1>
+ <pre>Aaliyah 2003																		More From the Store</pre>
+ <hr/>
+ <br/>
+ <br/>
+
+	</div>
+
+
+
+
+</body>
+
+</html>
