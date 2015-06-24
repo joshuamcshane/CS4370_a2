@@ -1,1 +1,20 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="/Users/mac/Desktop/project1.css">
+	<title></title>
+	
+	
+</head>
 
+<body>
+		
+		<div id="one"> &#8592; &#9658; &#8594; </div>
+		<div id="one"><img src="/Users/mac/Downloads/ye.jpg"></div>
+		<div id="one"></div>
+
+
+</body>
+
+</html>
